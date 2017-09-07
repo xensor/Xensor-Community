@@ -22,3 +22,7 @@ We've installed a new theme for the community and are working on setting everyth
 1.1 **New games added**
 
 Added new games to choices for clans to pick from.
+
+1.2 **Guides Added **
+
+We added guidelines for our members to read and understand what is expected of them.
