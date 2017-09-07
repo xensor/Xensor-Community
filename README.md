@@ -27,6 +27,6 @@ Added new games to choices for clans to pick from.
 
 We added guidelines for our members to read and understand what is expected of them.
 
-1.3 ** Updated the github**
+1.3 **Updated the github**
 
 We updated the github page.
