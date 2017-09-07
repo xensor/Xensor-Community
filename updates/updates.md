@@ -15,6 +15,9 @@
 4.  **Updated the github**
 
   We updated the github page.
+
 5. **Changed some information**
 
    We have changed some information about one of our community.
+
+   ​
