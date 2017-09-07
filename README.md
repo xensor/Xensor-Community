@@ -15,6 +15,10 @@ We will post whether or not the community offers paid memberships or not. This w
 
 #### Updates
 
-1.0 **New** theme installed.
+1.0 **New theme installed.**
 
 We've installed a new theme for the community and are working on setting everything up. We decided to use a clan theme for the community.
+
+1.1 **New games added**
+
+Added new games to choices for clans to pick from.
